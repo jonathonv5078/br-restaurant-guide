@@ -3,4 +3,7 @@
 ---
 What kind of food are you hungry for?
 ## [American](american/american.md)
-## Asian
+## [Asian](asain/asain.md)
+
+## [Japanese](japanese/japanese.md)
+## [Thai](thai/thai.md)
